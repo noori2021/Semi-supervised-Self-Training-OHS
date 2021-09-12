@@ -9,7 +9,7 @@
 
 - [Testing Dataset](https://drive.google.com/file/d/1rCkWUDFnMxsPlULERGziakIVAkwBOyNk/view?usp=sharing)
 
-- Pseudo Labelled by iterations 
+- Pseudo Labelled by iterations:  
   [1](https://drive.google.com/file/d/1LM1OZstgcEecOM7PRUyWCgAwoFAngSr4/view?usp=sharing)
   [2](https://drive.google.com/file/d/19I0D59Ce81yLS5rIGWbl_ayzzGNQqcSK/view?usp=sharing)
   [3](https://drive.google.com/file/d/11Pilo-M4GVvGcSknk-rZMPQdksUpZ2Vb/view?usp=sharing)
@@ -27,7 +27,8 @@
   [15](https://drive.google.com/file/d/1IRiVbOPDLEkiZQvu9X0OpXhUYhTsGH53/view?usp=sharing)
  
 
-- Best Model[CNN+SG(F1:89.6)](https://drive.google.com/file/d/1nONBeKWqri026valIlggLKukxflt9-zY/view?usp=sharing)
+- Best Model:
+  [CNN+SG(F1:89.6)](https://drive.google.com/file/d/1nONBeKWqri026valIlggLKukxflt9-zY/view?usp=sharing)
 
 
 
